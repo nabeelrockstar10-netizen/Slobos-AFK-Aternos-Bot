@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PlanetMc.play.hosting",
+    "ip": "Revivalist.aternos.me:39583",
     "port": 64653,
     "version": "",
     "try-creative": false
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Subscribe to Verdent!",
+        "I like to play Minecraft! like hazim"
       ]
     },
     "chat-log": true,
